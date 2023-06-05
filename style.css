@@ -8,7 +8,7 @@
     color: white;
 }
 .titulo2{
-    color: green;
+    color: red;
 }
 
 a{
@@ -23,7 +23,7 @@ body{
     background-image: radial-gradient(
         rgb(17,17,17, 0.7),
         rgb(30,30,30, 0.7)
-    ), url("./img/back.jpg");
+    ), url("./img/bcg.jpg");
     background-size: cover;
     height: 100vh;
     width: 100vw;
@@ -53,41 +53,41 @@ body{
 }
 .foto:nth-child(1){
     grid-area: f1;
-    background-image: url(./img/dollybolsonaro.jpg);
+    background-image: url(./img/img1.jpg);
 }
 .foto:nth-child(2){
     grid-area: f2;
-    background-image: url(./img/dolly_refrigerante.jpg);
+    background-image: url(./img/img2.jpg);
     background-position: center;
 }
 .foto:nth-child(3){
     grid-area: f3;
-    background-image: url(./img/dolly_cAvJcwF.jpg);
+    background-image: url(./img/img3.jpg);
     background-position: center;
 }
 .foto:nth-child(4){
     grid-area: f4;
-    background-image: url(./img/dollybr.jpg);
+    background-image: url(./img/img4.jpg);
     background-position: center;
 }
 .foto:nth-child(5){
     grid-area: f5;
-    background-image: url(./img/dollyfut.jpg);
+    background-image: url(./img/img5.jpg);
     background-position: center;
 }
 .foto:nth-child(6){
     grid-area: f6;
-    background-image: url(./img/doly.jpg);
+    background-image: url(./img/img6.jpg);
     background-position: center;
 }
 .foto:nth-child(7){
     grid-area: f7;
-    background-image: url(./img/refrigerante-dolly-guaraná.jpg);
+    background-image: url(./img/img7.jpg);
     background-position: center;
 }
 .foto:nth-child(8){
     grid-area: f8;
-    background-image: url(./img/size_960_16_9_dolly-comercial.jpg);
+    background-image: url(./img/img8.jpg);
     background-position: center;
 }
 
